@@ -7,6 +7,7 @@ import announcement from "./objects/announcement";
 import link from "./objects/link";
 import accessibleImage from "./objects/accessibleImage";
 import desktopNavigation from "./objects/desktopNavigation";
+import desktopSecondaryNavigation from "./objects/desktopSecondaryNavigation";
 import mobileNavigation from "./objects/mobileNavigation";
 import navigationItem from "./objects/navigationItem";
 import subNavigationItem from "./objects/subNavigationItem";
@@ -24,6 +25,7 @@ export default createSchema({
     link,
     accessibleImage,
     desktopNavigation,
+    desktopSecondaryNavigation,
     mobileNavigation,
     navigationItem,
     subNavigationItem,

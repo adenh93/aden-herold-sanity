@@ -47,7 +47,7 @@ export default {
       title: "Secondary navigation",
       name: "secondaryNavigation",
       description: "Secondary site navigation",
-      type: "desktopNavigation",
+      type: "desktopSecondaryNavigation",
     },
   ],
 };
